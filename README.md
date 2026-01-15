@@ -1,1 +1,55 @@
-# web
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Mi Proyecto Final en HTML</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+    <header>
+        <h1>Bienvenido a mi Proyecto HTML</h1>
+        <p>Esta página fue creada como proyecto final usando HTML.</p>
+    </header>
+
+    <main>
+        <section>
+            <h2>Sobre mí</h2>
+            <p>Estoy aprendiendo HTML y esta es una página de práctica.</p>
+
+            <h2>Imagenes de la práctica</h2>
+
+            <img src="https://i.ytimg.com/vi/eqORNjE0xew/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLASGvG31mlSDdLl78p2bwjxHdiiTw" alt="Imagen de ejemplo 1">
+
+            <img src="https://media.beehiiv.com/cdn-cgi/image/format=auto,onerror=redirect/uploads/asset/file/ea75d653-9542-432e-ba8a-877b0e629b91/template_imagen_curso_2.jpg" alt="Imagen de ejemplo 2">
+
+            <img src="https://media.tutellus.com/libraries/22/16/lib/1527587488571_2.jpg?size=854x493s&ext=jpg" alt="Imagen de ejemplo 3">
+        </section>
+
+        <section>
+            <h2>Mis objetivos</h2>
+            <ul>
+                <li>Aprender HTML correctamente</li>
+                <li>Crear sitios web accesibles</li>
+                <li>Seguir aprendiendo programación</li>
+                <li>Compartir mis conocimientos con otros</li>
+                <li>Ser un duro en ciberseguridad</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Recursos útiles</h2>
+            <p>
+                Puedes aprender más sobre HTML en 
+                <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank">
+                    MDN Web Docs
+                </a>.
+            </p>
+        </section>
+    </main>
+
+    <footer>
+        <p>Proyecto final HTML © 2026</p>
+    </footer>
+</body>
+</html>
